@@ -1,6 +1,6 @@
 # meals_app
 
-A new Flutter project.
+A digital cook book to hold the recipes of any dish you would like to add.
 
 ## Getting Started
 
